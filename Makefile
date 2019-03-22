@@ -1,6 +1,6 @@
 default: print
 
-SRC=2019-01-16_LACONEU
+SRC=2019-03-25_HDR_RobinBaures
 
 edit:
 	atom $(SRC).py
